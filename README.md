@@ -36,6 +36,3 @@
 # REFERENCE
 1. Trang hướng dẫn code: https://analyticsindiamag.com/building-a-covid-19-dashboard-using-streamlit/
 2. Database mẫu: https://data.covid19india.org/
-
-#
-## *CHÚC CÁC BẠN THÀNH CÔNG NHÉ! CODE NEVER DIEEEEEEE!!!*
